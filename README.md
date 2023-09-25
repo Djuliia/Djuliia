@@ -62,3 +62,22 @@
 ### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:
 
 👨‍💻 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://djuliia.github.io/goit-markup-hw-07/)
+
+---
+
+### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:
+
+🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://djuliia.github.io/goit-react-hw-05-movies/)  
+📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
+📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://djuliia.github.io/goit-react-hw-04-feedback/)  
+🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://djuliia.github.io/goit-react-hw-04-images/)  
+🏗 [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://djuliia.github.io/goit-react-hw-01-components/)
+
+---
+
+### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕁𝕊 𝕒𝕡𝕡𝕤:
+
+🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://djuliia.github.io/goit-js-hw-11/)  
+🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://djuliia.github.io/goit-js-hw-10/)  
+🏖 [𝕀𝕞𝕒𝕘𝕖𝕤 𝔾𝕒𝕝𝕝𝕖𝕣𝕪](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)
+
