@@ -70,7 +70,7 @@
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)  
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
-🕵️ [Image finder](https://djuliia.github.io/goit-react-hw-04-images/)  
+🕵️ [Image Finder](https://djuliia.github.io/goit-react-hw-04-images/)  
 🏗 [Components](https://djuliia.github.io/goit-react-hw-01-components/)
 
 ---
