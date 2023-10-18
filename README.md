@@ -13,13 +13,13 @@
 
 ---
 
-◦ 🌱 ℕ𝕠𝕨 𝕀'𝕞 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕒𝕥 𝔾𝕆𝕀𝕋 𝕠𝕟 𝕥𝕙𝕖 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕔𝕠𝕦𝕣𝕤𝕖 𝕒𝕟𝕕 𝕤𝕥𝕒𝕣𝕥𝕚𝕟𝕘 ℝ𝕖𝕕𝕦𝕩  
-◦ 📧 ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖: djuliya72ukr.net  
-◦ ⚡️ 𝔽𝕦𝕟 𝕗𝕒𝕔𝕥: 
+◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js 
+◦ 📧 How to reach me: djuliya72@ukr.net  
+◦ ⚡️ Good advice: if you're going to do something, do it well
 
 ---
 
-### :hammer_and_wrench: 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤 :
+### :hammer_and_wrench: Languages and Tools:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@
 
 ---
 
-### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤 :
+### :fire: My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djuliia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 𝔾𝕣𝕠𝕦𝕡 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤:
+### Group projects:
 
 <a href="https://github.com/Morifer79"><img src="https://img.shields.io/badge/Morifer79-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -54,30 +54,30 @@
 <a href="https://github.com/Vadym-Ivanenko"><img src="https://img.shields.io/badge/Vadym&ndash;Ivanenko-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
-📚 [𝔹𝕠𝕠𝕜𝕤𝕙𝕖𝕝𝕗](https://morifer79.github.io/code-jedi-project-02/)  
-⌚️ [𝕋𝕙𝕖 𝕎𝕒𝕥𝕔𝕙 𝕊𝕡𝕠𝕥](https://djuliia.github.io/project-group-6/)
+📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)  
+⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/)
 
 ---
 
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥:
+### My first project:
 
-👨‍💻 [𝕎𝕖𝕓 𝕊𝕥𝕦𝕕𝕚𝕠](https://djuliia.github.io/goit-markup-hw-07/)
-
----
-
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 ℝ𝕖𝕒𝕔𝕥 𝕒𝕡𝕡𝕤:
-
-🎥 [𝕄𝕠𝕧𝕚𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://djuliia.github.io/goit-react-hw-05-movies/)  
-📖 [ℙ𝕙𝕠𝕟𝕖𝕓𝕠𝕠𝕜](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
-📊 [𝔽𝕖𝕖𝕕𝕓𝕒𝕔𝕜](https://djuliia.github.io/goit-react-hw-04-feedback/)  
-🕵️ [𝕀𝕞𝕒𝕘𝕖 𝔽𝕚𝕟𝕕𝕖𝕣](https://djuliia.github.io/goit-react-hw-04-images/)  
-🏗 [ℂ𝕠𝕞𝕡𝕠𝕟𝕖𝕟𝕥𝕤](https://djuliia.github.io/goit-react-hw-01-components/)
+👨‍💻 [Web Studio](https://djuliia.github.io/goit-markup-hw-07/)
 
 ---
 
-### 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕁𝕊 𝕒𝕡𝕡𝕤:
+### My first React apps:
 
-🔎 [𝕊𝕖𝕒𝕣𝕔𝕙 𝔼𝕟𝕘𝕚𝕟𝕖](https://djuliia.github.io/goit-js-hw-11/)  
-🐱 [ℂ𝕒𝕥 𝔹𝕣𝕖𝕖𝕕𝕤](https://djuliia.github.io/goit-js-hw-10/)  
-🏖 [𝕀𝕞𝕒𝕘𝕖𝕤 𝔾𝕒𝕝𝕝𝕖𝕣𝕪](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)
+🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)  
+📖 [Phonebook](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
+📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
+🕵️ [Image finder](https://djuliia.github.io/goit-react-hw-04-images/)  
+🏗 [Components](https://djuliia.github.io/goit-react-hw-01-components/)
+
+---
+
+### My first JS apps:
+
+🔎 [Search Engine](https://djuliia.github.io/goit-js-hw-11/)  
+🐱 [Cat Breeds](https://djuliia.github.io/goit-js-hw-10/)  
+🏖 [Images Gallery](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)
 
