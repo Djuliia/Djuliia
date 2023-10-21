@@ -13,7 +13,7 @@
 
 ---
 
-◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js 
+◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js  
 ◦ 📧 How to reach me: djuliya72@ukr.net    
 ◦ ⚡️ Good advice: if you're going to do something, do it well
 
