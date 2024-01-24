@@ -66,9 +66,9 @@
 ---
 
 ### My first React apps:
-🚗 [Rental cars](https://djuliia.github.io/rental-cars/)
-📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)
-🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)  
+🚗 [Rental cars](https://djuliia.github.io/rental-cars/)  
+📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
+🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
 🕵️ [Image Finder](https://djuliia.github.io/goit-react-hw-04-images/)  
