@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Yuliia+Chaika;I%E2%80%99m+beginner+Frontend+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=25&pause=1000&multiline=true&width=436&height=100&lines=Hello!+My+name+is+Yuliia+Chaika;I%E2%80%99m+beginner+Fullstack+Developer+from+Ukraine;And+I+welcome+you+to+my+page+%E2%9C%8C" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-◦ 🌱 Now I'm studying at GoIT on the Full Stack Developer course and starting Node.js  
+◦ 🌱 I have completed the courses at GoIT, gained knowledge and teamwork experience, and now I am actively seeking employment opportunities as a full-stack developer  
 ◦ 📧 How to reach me: djuliya72@ukr.net    
 ◦ ⚡️ Good advice: if you're going to do something, do it well
 
@@ -66,12 +66,14 @@
 ---
 
 ### My first React apps:
-
+🚗 [Rental cars](https://djuliia.github.io/rental-cars/)
+📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)  
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-04-phonebook/)  
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
 🕵️ [Image Finder](https://djuliia.github.io/goit-react-hw-04-images/)  
 🏗 [Components](https://djuliia.github.io/goit-react-hw-01-components/)
+
 
 ---
 
