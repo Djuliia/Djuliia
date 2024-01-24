@@ -25,6 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="Node js" alt="Node jst" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
@@ -55,7 +59,8 @@
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)  
-⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/)
+⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/)  
+💧 [Water Tracker](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/) 
 
 ---
 
@@ -79,7 +84,7 @@
 
 ### My first JS apps:
 
-🔎 [Search Engine](https://djuliia.github.io/goit-js-hw-11/)  
+🔎 [Search Images](https://djuliia.github.io/goit-js-hw-11/)  
 🐱 [Cat Breeds](https://djuliia.github.io/goit-js-hw-10/)  
 🏖 [Images Gallery](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)
 
