@@ -69,7 +69,7 @@
 
 ---
 
-### My first React apps:
+### My React apps:
 🚗 [Rental cars](https://djuliia.github.io/rental-cars/)  
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
@@ -81,7 +81,7 @@
 
 ---
 
-### My first JS apps:
+### My JS apps:
 
 🔎 [Search Images](https://djuliia.github.io/goit-js-hw-11/)  
 🐱 [Cat Breeds](https://djuliia.github.io/goit-js-hw-10/)  
