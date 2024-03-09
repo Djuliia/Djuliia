@@ -60,7 +60,6 @@
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 ⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/) 
-<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/OleksiiProkoshin"><img src="https://img.shields.io/badge/OleksiiProkoshin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -68,7 +67,6 @@
 <a href="https://github.com/Volya16"><img src="https://img.shields.io/badge/Volya16-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 💧 [Water Tracker](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/) 
-<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/YevhenBrovchuk"><img src="https://img.shields.io/badge/YevhenBrovchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/OleksiiHvozdukhin"><img src="https://img.shields.io/badge/OleksiiHvozdukhin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -91,8 +89,8 @@
 
 ### React:
 👩 [LearnLingo](https://djuliia.github.io/react-project_learn-lingo/)  
-🚗 [Rental cars](https://djuliia.github.io/rental-cars/) 
-💵 [Currency converter] (djuliia.github.io/currency-converter/)  
+🚗 [Rental cars](https://djuliia.github.io/rental-cars/)   
+💵 [Currency converter] (djuliia.github.io/currency-converter/)    
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
