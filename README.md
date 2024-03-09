@@ -66,7 +66,7 @@
 <a href="https://github.com/OleksiiProkoshin"><img src="https://img.shields.io/badge/OleksiiProkoshin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/IlaySkripch"><img src="https://img.shields.io/badge/IlaySkripch-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Volya16"><img src="https://img.shields.io/badge/Volya16-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
-<a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
 💧 [Water Tracker](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/) 
 <a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -82,22 +82,22 @@
 
 ### HTML/CSS:
 
-👨‍💻 [Web Studio](https://djuliia.github.io/goit-markup-hw-07/)
-🗃 [CRM SASS](https://djuliia.github.io/sass-crm/)
-😺 [Cat house (grids)](https://github.com/Djuliia/cat-house)
+👨‍💻 [Web Studio](https://djuliia.github.io/goit-markup-hw-07/)  
+🗃 [CRM SASS](https://djuliia.github.io/sass-crm/)  
+😺 [Cat house (grids)](https://github.com/Djuliia/cat-house)  
 
 
 ---
 
 ### React:
-👩 [LearnLingo](https://djuliia.github.io/react-project_learn-lingo/)
+👩 [LearnLingo](https://djuliia.github.io/react-project_learn-lingo/)  
 🚗 [Rental cars](https://djuliia.github.io/rental-cars/) 
-💵 [Currency converter] (djuliia.github.io/currency-converter/)
+💵 [Currency converter] (djuliia.github.io/currency-converter/)  
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
 🕵️ [Image Finder](https://djuliia.github.io/goit-react-hw-04-images/)  
-🏗 [Components](https://djuliia.github.io/goit-react-hw-01-components/)
+🏗 [Components](https://djuliia.github.io/goit-react-hw-01-components/)  
 
 
 ---
@@ -106,7 +106,7 @@
 
 🔎 [Search Images](https://djuliia.github.io/goit-js-hw-11/)  
 🐱 [Cat Breeds](https://djuliia.github.io/goit-js-hw-10/)  
-🏖 [Images Gallery](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)
+🏖 [Images Gallery](https://djuliia.github.io/goit-js-hw-08/01-gallery.html)  
 
 
 ---
