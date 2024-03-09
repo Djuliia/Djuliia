@@ -27,14 +27,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="Node js" alt="Node jst" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -48,7 +50,7 @@
 ---
 
 ### Group projects:
-
+📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)
 <a href="https://github.com/Morifer79"><img src="https://img.shields.io/badge/Morifer79-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
@@ -57,20 +59,40 @@
 <a href="https://github.com/Vadym-Ivanenko"><img src="https://img.shields.io/badge/Vadym&ndash;Ivanenko-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/THafinchuk"><img src="https://img.shields.io/badge/THafinchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 <a href="https://github.com/Roman90000"><img src="https://img.shields.io/badge/Roman90000-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>  
-📚 [Bookshelf](https://morifer79.github.io/code-jedi-project-02/)  
-⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/)  
+⌚️ [The Watch Spot](https://djuliia.github.io/project-group-6/) 
+<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/SergBohdan"><img src="https://img.shields.io/badge/SergBohdan-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/OleksiiProkoshin"><img src="https://img.shields.io/badge/OleksiiProkoshin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/IlaySkripch"><img src="https://img.shields.io/badge/IlaySkripch-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Volya16"><img src="https://img.shields.io/badge/Volya16-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YanaK93"><img src="https://img.shields.io/badge/YanaK93-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 💧 [Water Tracker](https://oleksiihvozdukhin.github.io/code-jedi-project-03-frontend/) 
+<a href="https://github.com/Djuliia"><img src="https://img.shields.io/badge/Djuliia-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/ilesyk"><img src="https://img.shields.io/badge/ilesyk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/YevhenBrovchuk"><img src="https://img.shields.io/badge/YevhenBrovchuk-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/OleksiiHvozdukhin"><img src="https://img.shields.io/badge/OleksiiHvozdukhin-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/NataDent"><img src="https://img.shields.io/badge/NataDent-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/JuliaSmolianska"><img src="https://img.shields.io/badge/JuliaSmolianska-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/j-Hop"><img src="https://img.shields.io/badge/j&ndash;Hop-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/oldstuden"><img src="https://img.shields.io/badge/oldstuden-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
+<a href="https://github.com/Ihoronya"><img src="https://img.shields.io/badge/Ihoronya-black?style=plastic&logo=github&logoColor=white" alt="Github Badge"/></a>
 
 ---
 
-### My first project:
+### HTML/CSS:
 
 👨‍💻 [Web Studio](https://djuliia.github.io/goit-markup-hw-07/)
+🗃 [CRM SASS](https://djuliia.github.io/sass-crm/)
+😺 [Cat house (grids)](https://github.com/Djuliia/cat-house)
+
 
 ---
 
-### My React apps:
-🚗 [Rental cars](https://djuliia.github.io/rental-cars/)  
+### React:
+👩 [LearnLingo](https://djuliia.github.io/react-project_learn-lingo/)
+🚗 [Rental cars](https://djuliia.github.io/rental-cars/) 
+💵 [Currency converter] (djuliia.github.io/currency-converter/)
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
@@ -80,7 +102,7 @@
 
 ---
 
-### My JS apps:
+### JS:
 
 🔎 [Search Images](https://djuliia.github.io/goit-js-hw-11/)  
 🐱 [Cat Breeds](https://djuliia.github.io/goit-js-hw-10/)  
@@ -89,7 +111,7 @@
 
 ---
 
-### My Backend:
+### Backend:
 
 🖥 [Authentification and authorization](https://github.com/Djuliia/goit-node-hw-02)  
 
