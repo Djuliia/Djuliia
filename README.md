@@ -90,7 +90,7 @@
 ### React:
 👩 [LearnLingo](https://djuliia.github.io/react-project_learn-lingo/)  
 🚗 [Rental cars](https://djuliia.github.io/rental-cars/)   
-💵 ([Currency converter](https://djuliia.github.io/currency-converter/)    
+💵 [Currency converter](https://djuliia.github.io/currency-converter/)    
 📖 [Phonebook](https://djuliia.github.io/goit-react-hw-06-phonebook/)  
 🎥 [Movie Finder](https://djuliia.github.io/goit-react-hw-05-movies/)    
 📊 [Feedback](https://djuliia.github.io/goit-react-hw-04-feedback/)  
